@@ -13,7 +13,7 @@ This project retrieves and filters racing event data from an API, specifically f
 - `pandas` library
 - `requests` library
 
-## Setting Up a Virtual Environment (Preferable)
+## Setting Up a Virtual Environment (Optional)
 
 1. **Create a Virtual Environment**:
    Navigate to your project directory in the terminal and run:
