@@ -46,8 +46,8 @@ Run the script:(or just click run in the VScode)
 
 ```bash
 python main.py
-# After execution, a CSV file (races_data.csv) with event details will be created in the current directory.
 ```
+After execution, a CSV file (races_data.csv) with event details will be created in the current directory.
 
 
 
