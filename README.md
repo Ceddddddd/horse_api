@@ -13,15 +13,25 @@ This project retrieves and filters racing event data from an API, specifically f
 - `pandas` library
 - `requests` library
 
-Install the required package:
+Install the required packages:
 ```bash
 pip install pandas
+```
+```bash
 pip install requests
+```
 
 ## How to Run
+Run the script:(or just click run in the VScode)
 
-Run the script:
-
-Python
-Copy code
+```bash
 python main.py
+# After execution, a CSV file (races_data.csv) with event details will be created in the current directory.
+```
+
+
+
+
+
+
+
