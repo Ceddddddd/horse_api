@@ -13,6 +13,26 @@ This project retrieves and filters racing event data from an API, specifically f
 - `pandas` library
 - `requests` library
 
+## Setting Up a Virtual Environment
+
+1. **Create a Virtual Environment**:
+   Navigate to your project directory in the terminal and run:
+   ```bash
+   python -m venv venv
+   ```
+   Select python as the working environment
+   
+3. **Activate Environment**:
+   
+   On windows:
+   ```bash
+   venv\Scripts\activate
+   ```
+   On Linux:
+   ```bash
+   source venv/bin/activate
+   ```
+
 Install the required packages:
 ```bash
 pip install pandas
