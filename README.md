@@ -20,7 +20,8 @@ This project retrieves and filters racing event data from an API, specifically f
    ```bash
    python -m venv venv
    ```
-   Select python as the working environment
+   A popup at the bottom right will show and click Yes
+   or Select python as the working environment
    
 3. **Activate Environment**:
    
